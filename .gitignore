@@ -4,3 +4,4 @@ __pycache__/
 *.pyo
 dataset/
 comel_ml-api_key.txt
+asl_test_dataset/
