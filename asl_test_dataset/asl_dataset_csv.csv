@@ -1,0 +1,204 @@
+file_path,file_name,label
+./asl_test_dataset\A\a.png,a.png,A
+./asl_test_dataset\A\Pasted image (2).png,Pasted image (2).png,A
+./asl_test_dataset\A\Pasted image (3).png,Pasted image (3).png,A
+./asl_test_dataset\A\Pasted image (4).png,Pasted image (4).png,A
+./asl_test_dataset\A\Pasted image (5).png,Pasted image (5).png,A
+./asl_test_dataset\A\Pasted image.png,Pasted image.png,A
+./asl_test_dataset\B\b.png,b.png,B
+./asl_test_dataset\B\b1.png,b1.png,B
+./asl_test_dataset\B\b2.png,b2.png,B
+./asl_test_dataset\B\b3.png,b3.png,B
+./asl_test_dataset\B\Pasted image (2).png,Pasted image (2).png,B
+./asl_test_dataset\B\Pasted image (3).png,Pasted image (3).png,B
+./asl_test_dataset\B\Pasted image (4).png,Pasted image (4).png,B
+./asl_test_dataset\B\Pasted image.png,Pasted image.png,B
+./asl_test_dataset\C\c.png,c.png,C
+./asl_test_dataset\C\c1.png,c1.png,C
+./asl_test_dataset\C\Pasted image (2).png,Pasted image (2).png,C
+./asl_test_dataset\C\Pasted image (3).png,Pasted image (3).png,C
+./asl_test_dataset\C\Pasted image (4).png,Pasted image (4).png,C
+./asl_test_dataset\C\Pasted image.png,Pasted image.png,C
+./asl_test_dataset\D\1.png,1.png,D
+./asl_test_dataset\D\2.png,2.png,D
+./asl_test_dataset\D\3.png,3.png,D
+./asl_test_dataset\D\d.png,d.png,D
+./asl_test_dataset\D\Pasted image (2).png,Pasted image (2).png,D
+./asl_test_dataset\D\Pasted image (3).png,Pasted image (3).png,D
+./asl_test_dataset\D\Pasted image (4).png,Pasted image (4).png,D
+./asl_test_dataset\D\Pasted image.png,Pasted image.png,D
+./asl_test_dataset\E\1.png,1.png,E
+./asl_test_dataset\E\2.png,2.png,E
+./asl_test_dataset\E\3.png,3.png,E
+./asl_test_dataset\E\e.png,e.png,E
+./asl_test_dataset\E\Pasted image (2).png,Pasted image (2).png,E
+./asl_test_dataset\E\Pasted image (3).png,Pasted image (3).png,E
+./asl_test_dataset\E\Pasted image (4).png,Pasted image (4).png,E
+./asl_test_dataset\E\Pasted image.png,Pasted image.png,E
+./asl_test_dataset\F\1.png,1.png,F
+./asl_test_dataset\F\2.png,2.png,F
+./asl_test_dataset\F\3.png,3.png,F
+./asl_test_dataset\F\f.png,f.png,F
+./asl_test_dataset\F\Pasted image (2).png,Pasted image (2).png,F
+./asl_test_dataset\F\Pasted image (3).png,Pasted image (3).png,F
+./asl_test_dataset\F\Pasted image (4).png,Pasted image (4).png,F
+./asl_test_dataset\F\Pasted image.png,Pasted image.png,F
+./asl_test_dataset\G\1.png,1.png,G
+./asl_test_dataset\G\2.png,2.png,G
+./asl_test_dataset\G\3.png,3.png,G
+./asl_test_dataset\G\g.png,g.png,G
+./asl_test_dataset\G\Pasted image (2).png,Pasted image (2).png,G
+./asl_test_dataset\G\Pasted image (3).png,Pasted image (3).png,G
+./asl_test_dataset\G\Pasted image (4).png,Pasted image (4).png,G
+./asl_test_dataset\G\Pasted image.png,Pasted image.png,G
+./asl_test_dataset\H\1.png,1.png,H
+./asl_test_dataset\H\2.png,2.png,H
+./asl_test_dataset\H\3.png,3.png,H
+./asl_test_dataset\H\h.png,h.png,H
+./asl_test_dataset\H\Pasted image (2).png,Pasted image (2).png,H
+./asl_test_dataset\H\Pasted image (3).png,Pasted image (3).png,H
+./asl_test_dataset\H\Pasted image (4).png,Pasted image (4).png,H
+./asl_test_dataset\H\Pasted image.png,Pasted image.png,H
+./asl_test_dataset\I\1.png,1.png,I
+./asl_test_dataset\I\2.png,2.png,I
+./asl_test_dataset\I\3.png,3.png,I
+./asl_test_dataset\I\i.png,i.png,I
+./asl_test_dataset\I\Pasted image (2).png,Pasted image (2).png,I
+./asl_test_dataset\I\Pasted image (3).png,Pasted image (3).png,I
+./asl_test_dataset\I\Pasted image (4).png,Pasted image (4).png,I
+./asl_test_dataset\J\1.png,1.png,J
+./asl_test_dataset\J\2.png,2.png,J
+./asl_test_dataset\J\3.png,3.png,J
+./asl_test_dataset\J\j.png,j.png,J
+./asl_test_dataset\J\Pasted image (2).png,Pasted image (2).png,J
+./asl_test_dataset\J\Pasted image (3).png,Pasted image (3).png,J
+./asl_test_dataset\J\Pasted image (4).png,Pasted image (4).png,J
+./asl_test_dataset\J\Pasted image (5).png,Pasted image (5).png,J
+./asl_test_dataset\J\Pasted image.png,Pasted image.png,J
+./asl_test_dataset\K\1.png,1.png,K
+./asl_test_dataset\K\2.png,2.png,K
+./asl_test_dataset\K\3.png,3.png,K
+./asl_test_dataset\K\k.png,k.png,K
+./asl_test_dataset\K\Pasted image (2).png,Pasted image (2).png,K
+./asl_test_dataset\K\Pasted image (3).png,Pasted image (3).png,K
+./asl_test_dataset\K\Pasted image (4).png,Pasted image (4).png,K
+./asl_test_dataset\K\Pasted image.png,Pasted image.png,K
+./asl_test_dataset\L\1.png,1.png,L
+./asl_test_dataset\L\2.png,2.png,L
+./asl_test_dataset\L\3.png,3.png,L
+./asl_test_dataset\L\l.png,l.png,L
+./asl_test_dataset\L\Pasted image (2).png,Pasted image (2).png,L
+./asl_test_dataset\L\Pasted image (3).png,Pasted image (3).png,L
+./asl_test_dataset\L\Pasted image (4).png,Pasted image (4).png,L
+./asl_test_dataset\L\Pasted image.png,Pasted image.png,L
+./asl_test_dataset\M\1.png,1.png,M
+./asl_test_dataset\M\2.png,2.png,M
+./asl_test_dataset\M\3.png,3.png,M
+./asl_test_dataset\M\m.png,m.png,M
+./asl_test_dataset\M\Pasted image (2).png,Pasted image (2).png,M
+./asl_test_dataset\M\Pasted image (3).png,Pasted image (3).png,M
+./asl_test_dataset\M\Pasted image (4).png,Pasted image (4).png,M
+./asl_test_dataset\M\Pasted image.png,Pasted image.png,M
+./asl_test_dataset\N\1.png,1.png,N
+./asl_test_dataset\N\2.png,2.png,N
+./asl_test_dataset\N\3.png,3.png,N
+./asl_test_dataset\N\n.png,n.png,N
+./asl_test_dataset\N\Pasted image (2).png,Pasted image (2).png,N
+./asl_test_dataset\N\Pasted image (3).png,Pasted image (3).png,N
+./asl_test_dataset\N\Pasted image (4).png,Pasted image (4).png,N
+./asl_test_dataset\N\Pasted image.png,Pasted image.png,N
+./asl_test_dataset\O\1.png,1.png,O
+./asl_test_dataset\O\2.png,2.png,O
+./asl_test_dataset\O\3.png,3.png,O
+./asl_test_dataset\O\o.png,o.png,O
+./asl_test_dataset\O\Pasted image (2).png,Pasted image (2).png,O
+./asl_test_dataset\O\Pasted image (3).png,Pasted image (3).png,O
+./asl_test_dataset\O\Pasted image (4).png,Pasted image (4).png,O
+./asl_test_dataset\O\Pasted image.png,Pasted image.png,O
+./asl_test_dataset\P\1.png,1.png,P
+./asl_test_dataset\P\2.png,2.png,P
+./asl_test_dataset\P\3.png,3.png,P
+./asl_test_dataset\P\p.png,p.png,P
+./asl_test_dataset\P\Pasted image (2).png,Pasted image (2).png,P
+./asl_test_dataset\P\Pasted image (3).png,Pasted image (3).png,P
+./asl_test_dataset\P\Pasted image (5).png,Pasted image (5).png,P
+./asl_test_dataset\P\Pasted image.png,Pasted image.png,P
+./asl_test_dataset\Q\1.png,1.png,Q
+./asl_test_dataset\Q\2.png,2.png,Q
+./asl_test_dataset\Q\3.png,3.png,Q
+./asl_test_dataset\Q\Pasted image (2).png,Pasted image (2).png,Q
+./asl_test_dataset\Q\Pasted image (3).png,Pasted image (3).png,Q
+./asl_test_dataset\Q\Pasted image (4).png,Pasted image (4).png,Q
+./asl_test_dataset\Q\Pasted image.png,Pasted image.png,Q
+./asl_test_dataset\Q\q.png,q.png,Q
+./asl_test_dataset\R\1.png,1.png,R
+./asl_test_dataset\R\2.png,2.png,R
+./asl_test_dataset\R\3.png,3.png,R
+./asl_test_dataset\R\Pasted image (2).png,Pasted image (2).png,R
+./asl_test_dataset\R\Pasted image (3).png,Pasted image (3).png,R
+./asl_test_dataset\R\Pasted image (4).png,Pasted image (4).png,R
+./asl_test_dataset\R\Pasted image (5).png,Pasted image (5).png,R
+./asl_test_dataset\R\Pasted image.png,Pasted image.png,R
+./asl_test_dataset\R\r.png,r.png,R
+./asl_test_dataset\S\1.png,1.png,S
+./asl_test_dataset\S\2.png,2.png,S
+./asl_test_dataset\S\3.png,3.png,S
+./asl_test_dataset\S\Pasted image (2).png,Pasted image (2).png,S
+./asl_test_dataset\S\Pasted image (3).png,Pasted image (3).png,S
+./asl_test_dataset\S\Pasted image (4).png,Pasted image (4).png,S
+./asl_test_dataset\S\Pasted image.png,Pasted image.png,S
+./asl_test_dataset\S\s.png,s.png,S
+./asl_test_dataset\T\1.png,1.png,T
+./asl_test_dataset\T\2.png,2.png,T
+./asl_test_dataset\T\3.png,3.png,T
+./asl_test_dataset\T\Pasted image (2).png,Pasted image (2).png,T
+./asl_test_dataset\T\Pasted image (3).png,Pasted image (3).png,T
+./asl_test_dataset\T\Pasted image (4).png,Pasted image (4).png,T
+./asl_test_dataset\T\Pasted image.png,Pasted image.png,T
+./asl_test_dataset\T\t.png,t.png,T
+./asl_test_dataset\U\1.png,1.png,U
+./asl_test_dataset\U\2.png,2.png,U
+./asl_test_dataset\U\3.png,3.png,U
+./asl_test_dataset\U\Pasted image (2).png,Pasted image (2).png,U
+./asl_test_dataset\U\Pasted image (3).png,Pasted image (3).png,U
+./asl_test_dataset\U\Pasted image (4).png,Pasted image (4).png,U
+./asl_test_dataset\U\Pasted image.png,Pasted image.png,U
+./asl_test_dataset\U\u.png,u.png,U
+./asl_test_dataset\V\1.png,1.png,V
+./asl_test_dataset\V\2.png,2.png,V
+./asl_test_dataset\V\3.png,3.png,V
+./asl_test_dataset\V\Pasted image (2).png,Pasted image (2).png,V
+./asl_test_dataset\V\Pasted image (3).png,Pasted image (3).png,V
+./asl_test_dataset\V\Pasted image (4).png,Pasted image (4).png,V
+./asl_test_dataset\V\Pasted image.png,Pasted image.png,V
+./asl_test_dataset\V\v.png,v.png,V
+./asl_test_dataset\W\1.png,1.png,W
+./asl_test_dataset\W\2.png,2.png,W
+./asl_test_dataset\W\3.png,3.png,W
+./asl_test_dataset\W\Pasted image (2).png,Pasted image (2).png,W
+./asl_test_dataset\W\Pasted image (3).png,Pasted image (3).png,W
+./asl_test_dataset\W\Pasted image (4).png,Pasted image (4).png,W
+./asl_test_dataset\W\Pasted image.png,Pasted image.png,W
+./asl_test_dataset\W\w.png,w.png,W
+./asl_test_dataset\X\1.png,1.png,X
+./asl_test_dataset\X\2.png,2.png,X
+./asl_test_dataset\X\3.png,3.png,X
+./asl_test_dataset\X\Pasted image (2).png,Pasted image (2).png,X
+./asl_test_dataset\X\Pasted image (3).png,Pasted image (3).png,X
+./asl_test_dataset\X\Pasted image (4).png,Pasted image (4).png,X
+./asl_test_dataset\X\Pasted image.png,Pasted image.png,X
+./asl_test_dataset\X\x.png,x.png,X
+./asl_test_dataset\Y\1.png,1.png,Y
+./asl_test_dataset\Y\2.png,2.png,Y
+./asl_test_dataset\Y\3.png,3.png,Y
+./asl_test_dataset\Y\4.png,4.png,Y
+./asl_test_dataset\Y\Pasted image (2).png,Pasted image (2).png,Y
+./asl_test_dataset\Y\Pasted image (3).png,Pasted image (3).png,Y
+./asl_test_dataset\Y\Pasted image (4).png,Pasted image (4).png,Y
+./asl_test_dataset\Y\Pasted image.png,Pasted image.png,Y
+./asl_test_dataset\Y\y.png,y.png,Y
+./asl_test_dataset\Z\Pasted image (2).png,Pasted image (2).png,Z
+./asl_test_dataset\Z\Pasted image (3).png,Pasted image (3).png,Z
+./asl_test_dataset\Z\Pasted image (4).png,Pasted image (4).png,Z
+./asl_test_dataset\Z\Pasted image (5).png,Pasted image (5).png,Z
+./asl_test_dataset\Z\Pasted image.png,Pasted image.png,Z
