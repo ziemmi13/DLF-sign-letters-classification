@@ -1,5 +1,8 @@
 file_path,file_name,label
 ./asl_test_dataset\A\a.png,a.png,A
+./asl_test_dataset\A\a1.png,a1.png,A
+./asl_test_dataset\A\a2.png,a2.png,A
+./asl_test_dataset\A\a3.png,a3.png,A
 ./asl_test_dataset\A\Pasted image (2).png,Pasted image (2).png,A
 ./asl_test_dataset\A\Pasted image (3).png,Pasted image (3).png,A
 ./asl_test_dataset\A\Pasted image (4).png,Pasted image (4).png,A
@@ -9,12 +12,18 @@ file_path,file_name,label
 ./asl_test_dataset\B\b1.png,b1.png,B
 ./asl_test_dataset\B\b2.png,b2.png,B
 ./asl_test_dataset\B\b3.png,b3.png,B
+./asl_test_dataset\B\b4.png,b4.png,B
+./asl_test_dataset\B\b5.png,b5.png,B
+./asl_test_dataset\B\b6.png,b6.png,B
 ./asl_test_dataset\B\Pasted image (2).png,Pasted image (2).png,B
 ./asl_test_dataset\B\Pasted image (3).png,Pasted image (3).png,B
 ./asl_test_dataset\B\Pasted image (4).png,Pasted image (4).png,B
 ./asl_test_dataset\B\Pasted image.png,Pasted image.png,B
 ./asl_test_dataset\C\c.png,c.png,C
 ./asl_test_dataset\C\c1.png,c1.png,C
+./asl_test_dataset\C\c2.png,c2.png,C
+./asl_test_dataset\C\c3.png,c3.png,C
+./asl_test_dataset\C\c4.png,c4.png,C
 ./asl_test_dataset\C\Pasted image (2).png,Pasted image (2).png,C
 ./asl_test_dataset\C\Pasted image (3).png,Pasted image (3).png,C
 ./asl_test_dataset\C\Pasted image (4).png,Pasted image (4).png,C
@@ -66,6 +75,7 @@ file_path,file_name,label
 ./asl_test_dataset\I\Pasted image (2).png,Pasted image (2).png,I
 ./asl_test_dataset\I\Pasted image (3).png,Pasted image (3).png,I
 ./asl_test_dataset\I\Pasted image (4).png,Pasted image (4).png,I
+./asl_test_dataset\I\Pasted image.png,Pasted image.png,I
 ./asl_test_dataset\J\1.png,1.png,J
 ./asl_test_dataset\J\2.png,2.png,J
 ./asl_test_dataset\J\3.png,3.png,J
