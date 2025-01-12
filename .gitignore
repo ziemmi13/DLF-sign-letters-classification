@@ -4,3 +4,9 @@ __pycache__/
 *.pyo
 dataset/
 comel_ml-api_key.txt
+utils.py
+utils.py
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/utils-checkpoint.py
+.ipynb_checkpoints/MobileNet model-checkpoint.ipynb
+.ipynb_checkpoints/model_testing-checkpoint.ipynb
