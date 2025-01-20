@@ -4,7 +4,16 @@ __pycache__/
 *.pyo
 dataset/
 comel_ml-api_key.txt
+<<<<<<< HEAD
 new_dataset/
 
 models/
 .cometml-runs
+=======
+utils.py
+utils.py
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/utils-checkpoint.py
+.ipynb_checkpoints/MobileNet model-checkpoint.ipynb
+.ipynb_checkpoints/model_testing-checkpoint.ipynb
+>>>>>>> 6dbec37b34e82c2c506b60d909ca8496131dd4db
