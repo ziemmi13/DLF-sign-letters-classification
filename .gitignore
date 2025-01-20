@@ -4,3 +4,7 @@ __pycache__/
 *.pyo
 dataset/
 comel_ml-api_key.txt
+new_dataset/
+
+models/
+.cometml-runs
